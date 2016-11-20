@@ -9,6 +9,7 @@
   "author": "Scott Bromander",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.14.0",
     "socket.io": "^1.5.1"
   }
 }
